@@ -1,0 +1,147 @@
+﻿{
+   "CodeGenerationMode": 0,
+   "ContextClassName": "ApplicationDBContext",
+   "ContextNamespace": "data",
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": "DAL",
+   "OutputContextPath": "data",
+   "OutputPath": "DAL",
+   "ProjectRootNamespace": "CORE",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 2,
+   "Tables": [
+      {
+         "Name": "[dbo].[AcademicDegree]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AcademicRank]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AspNetRoles]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AspNetUserLogins]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AspNetUserRoles]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AspNetUsers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AspNetUserTokens]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CertificateType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[City]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Country]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DiscoveryChannels]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ExperienceSpecialityRelation]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Gender]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Grade]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[KPI]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[KPICategory]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PositionAbbreviation]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[profile]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProfileAcademicDegree]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProfileAwards]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProfileCourses]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProfileEvaluation]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProfileExperiences]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProfileScientificResearch]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ScientificResearchParticipant]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Specialty]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SupKPI]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[University]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "DESKTOP-14LB7F5.UniversityProfUnit",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}

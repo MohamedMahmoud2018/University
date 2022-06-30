@@ -1,0 +1,77 @@
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\API.exe
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\wwwroot\CV\2587419636GET YOUR CV.pdf
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\wwwroot\CV\7412589632t2.jpg
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\wwwroot\CV\7412589637GET YOUR CV.pdf
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\wwwroot\CV\7893214560GET YOUR CV.pdf
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\wwwroot\CV\7896541230GET YOUR CV.pdf
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\wwwroot\CV\9633698523GET YOUR CV.pdf
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\wwwroot\CV\9871236545GET YOUR CV.pdf
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\wwwroot\CV\9874563210GET YOUR CV.pdf
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\wwwroot\CV\9874563210سيرة ذاتية محاسب محمود أحمد.pdf
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\wwwroot\CV\9874563698GET YOUR CV.pdf
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\wwwroot\ProfilePictures\1478523690t1.jpg
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\wwwroot\ProfilePictures\2013654789good-pic.png
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\wwwroot\ProfilePictures\2587419636good-pic.png
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\wwwroot\ProfilePictures\7412589632t2.jpg
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\wwwroot\ProfilePictures\7412589637t2.jpg
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\wwwroot\ProfilePictures\7893214560good-pic.png
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\wwwroot\ProfilePictures\7893214560t1.jpg
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\wwwroot\ProfilePictures\7896541230good-pic.png
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\wwwroot\ProfilePictures\9871236545good-pic.png
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\wwwroot\ProfilePictures\9874563210good-pic.png
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\wwwroot\ProfilePictures\9874563698good-pic.png
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\API.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\API.runtimeconfig.json
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\API.pdb
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\AutoMapper.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\Microsoft.Data.SqlClient.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\Microsoft.Extensions.DependencyInjection.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\Microsoft.Extensions.Identity.Core.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\Microsoft.Extensions.Identity.Stores.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\Microsoft.Extensions.Options.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\Microsoft.Extensions.Primitives.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\Microsoft.Identity.Client.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\System.Configuration.ConfigurationManager.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\System.Diagnostics.DiagnosticSource.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\System.Runtime.Caching.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\System.Runtime.CompilerServices.Unsafe.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\BLL.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\CORE.dll
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\BLL.pdb
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\CORE.pdb
+C:\MiskTFS\University_Prof_Unit\API\obj\Release\net5.0\PubTmp\Out\API.deps.json

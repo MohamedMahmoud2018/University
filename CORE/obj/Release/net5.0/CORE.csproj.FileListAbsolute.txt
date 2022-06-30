@@ -1,0 +1,15 @@
+C:\MiskTFS\University_Prof_Unit\CORE\bin\Release\net5.0\CORE.deps.json
+C:\MiskTFS\University_Prof_Unit\CORE\bin\Release\net5.0\CORE.dll
+C:\MiskTFS\University_Prof_Unit\CORE\bin\Release\net5.0\ref\CORE.dll
+C:\MiskTFS\University_Prof_Unit\CORE\bin\Release\net5.0\CORE.pdb
+C:\MiskTFS\University_Prof_Unit\CORE\obj\Release\net5.0\CORE.csproj.AssemblyReference.cache
+C:\MiskTFS\University_Prof_Unit\CORE\obj\Release\net5.0\CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\MiskTFS\University_Prof_Unit\CORE\obj\Release\net5.0\CORE.AssemblyInfoInputs.cache
+C:\MiskTFS\University_Prof_Unit\CORE\obj\Release\net5.0\CORE.AssemblyInfo.cs
+C:\MiskTFS\University_Prof_Unit\CORE\obj\Release\net5.0\CORE.csproj.CoreCompileInputs.cache
+C:\MiskTFS\University_Prof_Unit\CORE\obj\Release\net5.0\CORE.dll
+C:\MiskTFS\University_Prof_Unit\CORE\obj\Release\net5.0\ref\CORE.dll
+C:\MiskTFS\University_Prof_Unit\CORE\obj\Release\net5.0\CORE.pdb
+C:\MiskTFS\University_Prof_Unit\CORE\bin\Release\net5.0\CORE.runtimeconfig.json
+C:\MiskTFS\University_Prof_Unit\CORE\bin\Release\net5.0\CORE.runtimeconfig.dev.json
+C:\MiskTFS\University_Prof_Unit\CORE\obj\Release\net5.0\CORE.genruntimeconfig.cache
